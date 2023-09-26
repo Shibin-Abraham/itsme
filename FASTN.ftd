@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: Shibin-Abraham.github.io/itsme
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+favicon: /-/Shibin-Abraham.github.io/itsme/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
@@ -12,7 +12,7 @@ favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
 
 
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: Shibin-Abraham.github.io/itsme/FASTN/ds
+-- fastn.auto-import: shibin-Abraham.github.io/itsme/assets
 -- fastn.auto-import: doc-site
 
